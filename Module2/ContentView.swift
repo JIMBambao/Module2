@@ -11,6 +11,11 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         Text("Hello, World!Additional textA")
+
+    }
+    var newFeature: some View {
+        Text("Hello, World!Additional textA")
+
     }
 }
 
